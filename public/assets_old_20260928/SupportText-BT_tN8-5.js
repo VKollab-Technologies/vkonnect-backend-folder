@@ -1,0 +1,1 @@
+import{j as t}from"./vendor-react-DACzjLc0.js";function n({email:e="alumni@vkollab.com",className:r}){return t.jsxs("p",{className:r??"mt-inline text-center text-body text-muted-foreground",children:["Please reach out to"," ",t.jsx("a",{href:`mailto:${e}`,className:"font-medium text-primary hover:underline",children:e})," ","for any support."]})}export{n as S};

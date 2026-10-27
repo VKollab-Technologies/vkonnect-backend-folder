@@ -1,0 +1,1 @@
+function n(e){return e.getUTCMonth()>=3?e.getUTCFullYear():e.getUTCFullYear()-1}function o(e,a){if(!e)return[];const t=n(new Date(e)),s=n(a?new Date(a):new Date);if(s<t)return[`${t}-${t+1}`];const u=[];for(let r=t;r<=s;r++)u.push(`${r}-${r+1}`);return u.reverse()}export{o as e};

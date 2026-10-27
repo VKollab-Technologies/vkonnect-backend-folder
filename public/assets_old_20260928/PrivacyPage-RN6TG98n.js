@@ -1,0 +1,1 @@
+import{j as r}from"./vendor-react-DACzjLc0.js";import{L as t}from"./LegalPage-CbBZ3vnJ.js";import"./vendor-router-D2DCmpQQ.js";import"./index-BfyRXSDa.js";import"./vendor-query-D4FnYKIr.js";import"./vendor-radix-CNFcsRQM.js";function n(){return r.jsx(t,{contentKey:"privacy"})}export{n as default};

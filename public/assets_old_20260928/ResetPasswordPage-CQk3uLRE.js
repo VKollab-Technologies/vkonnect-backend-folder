@@ -1,0 +1,1 @@
+import{j as r}from"./vendor-react-DACzjLc0.js";import{R as t}from"./index-BfyRXSDa.js";import{b as o}from"./vendor-router-D2DCmpQQ.js";import"./vendor-query-D4FnYKIr.js";import"./vendor-radix-CNFcsRQM.js";function p(){return r.jsx(o,{to:t.auth.forgotPassword,replace:!0})}export{p as default};

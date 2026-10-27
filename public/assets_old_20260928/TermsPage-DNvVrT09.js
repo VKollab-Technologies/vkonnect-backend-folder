@@ -1,0 +1,1 @@
+import{j as t}from"./vendor-react-DACzjLc0.js";import{L as r}from"./LegalPage-CbBZ3vnJ.js";import"./vendor-router-D2DCmpQQ.js";import"./index-BfyRXSDa.js";import"./vendor-query-D4FnYKIr.js";import"./vendor-radix-CNFcsRQM.js";function a(){return t.jsx(r,{contentKey:"terms"})}export{a as default};

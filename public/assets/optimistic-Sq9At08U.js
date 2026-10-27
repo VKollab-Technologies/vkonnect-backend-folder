@@ -1,0 +1,1 @@
+async function i(t,e,a){await t.cancelQueries({queryKey:e});const s=t.getQueriesData({queryKey:e});return t.setQueriesData({queryKey:e},u=>u&&a(u)),{previous:s}}function r(t,e){if(e)for(const[a,s]of e.previous)t.setQueryData(a,s)}export{i as a,r};
